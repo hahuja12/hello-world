@@ -1,2 +1,3 @@
 # hello-world
-new repo
+This is new repo in the branch.
+Learning how to branch in github
